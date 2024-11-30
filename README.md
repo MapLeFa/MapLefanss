@@ -19,6 +19,7 @@ Welcome to my GitHub profile. Grab a coffee and take a look around! ☕👨‍�
 ### 🌟 Featured Projects
 - [**FiveM Launcher**](https://github.com/MapLefanss/Fivem-launcher) - A quick blurb about why it's awesome.
 - [**Math Calculator**](https://github.com/MapLefanss/Math-Calculator) - Another cool thing I worked on.
+- [**Hacker Simulator Game **](https://github.com/MapLefanss/Hacker-Simulator-Game) - Another project done—let’s see if it breaks!
 
 ---
 
