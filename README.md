@@ -1,12 +1,25 @@
-[- 👋 Hi, I’m @MapLefanss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-](https://camo.githubusercontent.com/9fbe983f514cd88e85820d77d630fd516b82a69f4380d0b137b19104509a74d8/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d496d706163742673697a653d3332266c696e65733d6865792532432b77656c636f6d652b746f2b6d792b676974687562)
-<!---
-MapLefanss/MapLefanss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey there, I'm MapLe!
+Welcome to my GitHub profile. Grab a coffee and take a look around! ☕👨‍💻
+
+## 🔧 Skills & Stuff
+- **Programming Languages:** JavaScript | Python | C++ | and more...
+- **Interests:** Web development, game dev.
+- **Tools & Tech:** React | Node.js | TensorFlow | Docker | Whatever cool tech I can get my hands on.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github.com/MapLefanss?tab=stars)
+
+## 🌐 Where to Find Me?
+- [LinkedIn](https://linkedin.com/in/maple)  
+- [Twitter](https://twitter.com/your_username)  
+- [Personal Website](https://maple.xyz)  
+
+---
+
+### 🌟 Featured Projects
+- [**FiveM Launcher**](https://github.com/your_username/project1) - A quick blurb about why it's awesome.
+- [**Math Calculator**](https://github.com/your_username/project2) - Another cool thing I worked on.
+
+---
+
+✨ Thanks for stopping by! Drop a ⭐ on any project you like—it makes my day. 😄
